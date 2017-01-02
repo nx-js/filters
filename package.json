@@ -1,0 +1,27 @@
+{
+  "name": "@nx-js/filters",
+  "version": "1.0.0",
+  "description": "Filters for the NX compiler util.",
+  "main": "index.js",
+  "author": {
+    "name": "Miklos Bertalan",
+    "email": "miklos.bertalan@risingstack.com"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:nx-js/filters.git"
+  },
+  "bugs": {
+    "url": "https://github.com/nx-js/filters/issues"
+  },
+  "homepage": "http://nx-framework.com",
+  "license": "MIT",
+  "keywords": [
+    "nx",
+    "filters",
+    "compile"
+  ],
+  "dependencies": {
+    "@nx-js/compiler-util": "^1.0.0"
+  }
+}
