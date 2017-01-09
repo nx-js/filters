@@ -15,4 +15,4 @@ following filters.
 - datetime: Converts the passed date to a local datetime string.
 
 You can learn more
-about NX filters [here](http://nx-framework/docs/middlewares/interpolate).
+about NX filters [here](http://nx-framework.com/docs/middlewares/interpolate).
